@@ -1,0 +1,5 @@
+fastapi
+loguru
+pybase64
+pydantic
+uvicorn
